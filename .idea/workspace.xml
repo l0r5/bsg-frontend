@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc09ca64-0d14-4274-9577-83a0ec5f4437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bsg-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewTodo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todos.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewTodo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewTodo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos.tsx" afterDir="false" />
     </list>
     <list id="bd647f5b-ac84-4d59-a6fc-960012dc216b" name="DO NOT COMMIT" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1665306331682" duration="5860000" />
       <workItem from="1665578843238" duration="564000" />
       <workItem from="1665579562362" duration="237000" />
-      <workItem from="1665579813665" duration="7173000" />
+      <workItem from="1665579813665" duration="8958000" />
     </task>
     <task id="LOCAL-00001" summary="Clean up project from unnecessary stuff">
       <created>1665589104858</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665592354478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add an input to create todos and add project related files">
+      <created>1665599750237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665599750237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +133,8 @@
     <MESSAGE value="Clean up project from unnecessary stuff" />
     <MESSAGE value="shelv" />
     <MESSAGE value="Create stupid todo list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create stupid todo list" />
+    <MESSAGE value="Add an input to create todos and add project related files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add an input to create todos and add project related files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
